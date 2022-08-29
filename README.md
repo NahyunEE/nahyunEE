@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Verilog?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C#?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Python?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Java?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/elastic_cloud?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/elastic?style=flat&logo=Sass&logoColor=CC6699"/>
+
